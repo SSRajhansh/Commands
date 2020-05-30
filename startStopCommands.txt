@@ -1,0 +1,3 @@
+MemSql Studio : ;
+Start :  sudo systemctl start memsql-studio
+Stop : sudo systemctl stop memsql-studio
