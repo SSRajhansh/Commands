@@ -1,0 +1,17 @@
+MemSql Studio : ;
+Start :  sudo systemctl start memsql-studio
+Stop : sudo systemctl stop memsql-studio
+
+##Grafana
+Start : 
+ sudo /bin/systemctl daemon-reload
+ sudo /bin/systemctl enable grafana-server
+ sudo /bin/systemctl start grafana-server
+Stop: 
+sudo /bin/systemctl stop grafana-server
+Status : 
+ sudo systemctl status grafana-server
+ POrt is 5555
+
+##InfluxDB :
+  influx -precision rfc3339
