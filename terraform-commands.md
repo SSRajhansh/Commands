@@ -13,3 +13,7 @@
 | `terraform refresh` |  To update/refresh the state file which was manually updated on resource. |
 | `terraform output` |  To get the output of the resource attributes. |
 | `terraform console` |  To provides an interactive console for evaluating expressions. |
+| `terraform providers` |  To shows all the providers required by configuration. |
+
+
+###Reference: [Terraform Configuration Language](https://developer.hashicorp.com/terraform/language)
