@@ -18,3 +18,5 @@
 
 ### Reference: 
 [Terraform Configuration Language](https://developer.hashicorp.com/terraform/language)
+[Tutorial](https://learning-ocean.com/tutorials/terraform/terraform-what-why-and-how/)
+[Video Tutorial](https://youtube.com/playlist?list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&si=I4GKjGcTrGFLqkgy)
